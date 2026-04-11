@@ -1,0 +1,16 @@
+{
+  "name": "MauNux OS",
+  "short_name": "MauNux",
+  "description": "MauNux v1.0.1 LTS — basado en Carl OS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#6c63ff",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
